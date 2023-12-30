@@ -1,5 +1,3 @@
-# 3ds-examples
+# template
 
-Examples for 3DS using devkitARM, libctru and citro3d
-
-<p align="center"><a href="http://creativecommons.org/publicdomain/mark/1.0/"><img src="http://i.creativecommons.org/p/mark/1.0/88x31.png" alt="Public Domain Mark"></a></p>
+This is a template for starting new 3DS libctru projects.
